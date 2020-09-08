@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> [He] walked into a building that looked interesting, and which turned out to be a library. At first he thought it was full of poncy stuff, all kings and poets and lovers and battles, but in one crucial book he found something called mathematics and the world of numbers. - Terry Pratchett, Raising Steam.
+
 <!--
 **dexturr/dexturr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
